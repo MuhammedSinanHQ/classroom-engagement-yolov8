@@ -1,0 +1,8 @@
+venv/
+pycache/
+*.pt
+*.onnx
+*.engine
+results/
+data/raw/
+data/processed/
